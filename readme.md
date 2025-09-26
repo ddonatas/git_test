@@ -1,3 +1,3 @@
-<h1> MANo projetas </h1>
+<h1> Mano projektas </h1>
 
 Autorius <b> Donatas </b>
